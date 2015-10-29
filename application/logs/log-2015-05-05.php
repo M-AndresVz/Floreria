@@ -1,0 +1,26 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2015-05-05 18:43:51 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\galeryPRO\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-05-05 18:43:55 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\galeryPRO\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-05-05 18:44:09 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\galeryPRO\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-05-05 18:44:21 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\galeryPRO\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-05-05 18:44:21 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\galeryPRO\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-05-05 18:44:55 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\galeryPRO\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-05-05 18:44:59 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\galeryPRO\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-05-05 18:45:12 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\galeryPRO\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-05-05 18:45:20 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\galeryPRO\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-05-05 18:45:20 --> Severity: Notice  --> Undefined index: session_id C:\xampp\htdocs\galeryPRO\system\libraries\Session.php 289
+ERROR - 2015-05-05 18:45:20 --> Severity: Notice  --> Undefined index: ip_address C:\xampp\htdocs\galeryPRO\system\libraries\Session.php 289
+ERROR - 2015-05-05 18:45:20 --> Severity: Notice  --> Undefined index: user_agent C:\xampp\htdocs\galeryPRO\system\libraries\Session.php 289
+ERROR - 2015-05-05 18:45:20 --> Severity: Notice  --> Undefined index: last_activity C:\xampp\htdocs\galeryPRO\system\libraries\Session.php 289
+ERROR - 2015-05-05 18:45:20 --> Severity: Notice  --> Undefined index: session_id C:\xampp\htdocs\galeryPRO\system\libraries\Session.php 305
+ERROR - 2015-05-05 18:45:21 --> Severity: Notice  --> Undefined index: last_activity C:\xampp\htdocs\galeryPRO\system\libraries\Session.php 306
+ERROR - 2015-05-05 18:45:21 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\galeryPRO\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-05-05 18:45:22 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\galeryPRO\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-05-05 18:45:25 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\galeryPRO\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-05-05 18:45:31 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\galeryPRO\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-05-05 18:45:39 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\galeryPRO\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-05-05 18:45:40 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\galeryPRO\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-05-05 18:45:44 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\galeryPRO\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-05-05 18:45:55 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\galeryPRO\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-05-05 18:46:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\galeryPRO\system\database\drivers\mysql\mysql_driver.php 92
