@@ -229,6 +229,22 @@ public function invitado()          //carga la pagina principal del invitado
 		$this->load->view('buscar_empleado', $data);
 		$this->load->view('footer');
 	}
+public function principalempleados(){
+		$this->load->view('headers/librerias');  
+		$this->load->view('principalempleados_view');
+		$this->load->view('headers/menuempleados');   
+		$this->load->view('footer');
+	}
+
+	public function emple(){       //primero llama la vista donde iniciará sesion del empleado
+		
+		$this->load->view('headers/librerias');
+		$this->load->view('inicioempleado');         //inicia sesion del empleado
+		$this->load->view('footer');
+	}
+
+
+	
 	//FUNCIONES DEL PROVEEDOR POR OLMOS
 	public function agregarProveedor() {
 			$this->load->view('headers/librerias');
